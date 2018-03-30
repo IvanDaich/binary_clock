@@ -4,3 +4,4 @@ To learn more about the JavaScript, p5.js, I'm create as many clocks in differen
 Completed clocks:
 * [Binary clock with 24-hour model](https://codepen.io/IvanDaich/full/XEZGNz/)
 * [Binary clock with HH:MM:SS model](https://codepen.io/IvanDaich/full/pLaGXy/)
+* [Hex Clock with Color Changing Background](https://codepen.io/IvanDaich/full/qooawb/)
